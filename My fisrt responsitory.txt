@@ -1,0 +1,23 @@
+Мій перший репозиторій
+echo "# LR_1-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mizhik/LR_1-.git
+git push -u origin main
+
+git remote add origin https://github.com/Mizhik/LR_1-.git
+git branch -M main
+git push -u origin main
+
+ПИТАННЯ:
+1.Git — розподілена система керування версіями файлів та спільної роботи. 
+2.Збережений у коміті (commited), змінений (modified) та індексований (staged)
+3.Команда додає усі файли в цій директорії рекурсивно
+4.Дає інформацію о завантажених вами файлах
+5.Команда для запису індексованих файлів
+6.Створює локальний репозиторій на вашому компьютеру для подальшої загрузки на git
+7.Що було змінено
+8.Команда git log
+9.Використовується для переходу між гілками та камітами
